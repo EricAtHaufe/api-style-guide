@@ -2,9 +2,9 @@
 
 An API needs a proper documentation to help developers to use the API.
 
-It is important to have a short but meaningful description about the purpose of the API.
+It is important to have a readable and meaningful summary about the purpose of the API.
 
-Describe important use cases to give developers a quick headstart.
+The description should provide a verbose explanation of the operation behavior including  important use cases to give developers a quick headstart.
 
 Goal is to enable a developer to use your API as quick as possible.
 
