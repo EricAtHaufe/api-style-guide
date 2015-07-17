@@ -6,7 +6,8 @@ Like a product it should follow these rules:
 
 - Easy to learn  
 - Hard to misuse
-- Easy to read and maintain it
+- Easy to read
+- Simple to Maintain
 - Audience oriented
 
 ### Design your API with a customer, or at least with a customer in mind and Get Feedback.
